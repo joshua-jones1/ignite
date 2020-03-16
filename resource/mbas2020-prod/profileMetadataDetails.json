@@ -33,7 +33,7 @@
         "Class": "",
         "Path": "detail.title",
         "Value": "",
-        "MinimumLength": 3
+        "MinimumLength": 2
       },
       {
         "DisplayTitle": "Company",
@@ -42,7 +42,7 @@
         "Class": "",
         "Path": "detail.company",
         "Value": "",
-        "MinimumLength": 3
+        "MinimumLength": 2
       },
       {
         "DisplayTitle": "Country of Business",
