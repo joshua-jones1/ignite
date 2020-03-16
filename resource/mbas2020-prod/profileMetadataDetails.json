@@ -32,7 +32,8 @@
         "Style": "inputText",
         "Class": "",
         "Path": "detail.title",
-        "Value": ""
+        "Value": "",
+        "MinimumLength": 3
       },
       {
         "DisplayTitle": "Company",
@@ -40,7 +41,8 @@
         "Style": "inputText",
         "Class": "",
         "Path": "detail.company",
-        "Value": ""
+        "Value": "",
+        "MinimumLength": 3
       },
       {
         "DisplayTitle": "Country of Business",
